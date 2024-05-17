@@ -3,6 +3,7 @@ import HeroSection from "./components/HeroSection";
 import Footer from "./components/shared/Footer";
 import Header from "./components/shared/Header";
 import TaskBoard from "./components/table-elements/TaskBoard";
+import { TasksData } from "./components/data/TasksData";
 
 function App() {
   return (
